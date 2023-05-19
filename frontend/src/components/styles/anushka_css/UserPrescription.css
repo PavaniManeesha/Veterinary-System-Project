@@ -1,0 +1,102 @@
+.main-body{
+    background: white;
+}
+.div-main-container{
+    margin: 30px 30px 30px 30px;
+}
+.header-main{
+    display: flex;
+    justify-content: center;
+}
+.heder-container{
+    width: 100%;
+}
+#imageId{
+    display: flex;
+justify-content: center;
+}
+#addressId{
+    display: flex;
+    justify-content:flex-end;
+}
+#medicinelable{
+    color: brown;
+    
+}
+#reportlable{
+    color: rgb(42, 75, 5);
+}
+h5{
+    color: blue;
+}
+hr{
+    border-top: 10px solid rgb(0, 0, 0);
+}
+hr{
+    height: 200px;
+    size: 100px;
+}
+#pet_name{
+    position: relative;
+    left: 5px;
+}
+#breed{
+    position: relative;
+    left: 65px;
+}
+#pet_age{
+    position: relative;
+    left: 105px;
+}
+
+@media screen and (min-width: 600px) and (max-width: 1200px){
+    #medicine{
+        position: relative;
+        left: 76px;
+    }
+    #labreport{
+        position: relative;
+        left: 60px;
+    }
+    #advicegiven{
+        position:relative;
+        left: 160px;
+        bottom: 40px;
+    }
+    #advicegivenLable{
+        position:relative;
+        top: 106px;
+    }
+    #date{
+        position:relative;
+        left: 110px;
+    }
+}
+@media screen and (min-width: 1200px) and (max-width: 1920px){
+    #medicine{
+        position: relative;
+        left: 70px;
+    }
+    #labreport{
+        position: relative;
+        left: 56px;
+    }
+    #date{
+        width: 346px;
+    }
+    #saveBtn{
+        position: absolute;
+        right: 20px;
+        bottom: -250px;
+    }
+    .advice-given-container{
+        position: absolute;
+        right: 20px;
+        bottom: 80px;
+    }
+    .date-container{
+        position: absolute;
+        right: 20px;
+        top: 235px;
+    }
+}

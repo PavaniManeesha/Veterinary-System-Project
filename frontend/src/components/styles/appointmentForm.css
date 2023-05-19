@@ -1,0 +1,149 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px;
+}
+
+#submit-btn{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(111, 186, 255);
+    color:#333
+
+}
+
+#submit-btn:hover{
+    background-color: rgb(111, 186, 255);
+    border-color: rgb(111, 186, 255);
+    color:rgb(255, 255, 255);
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+}
+
+.card{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#nameSpan{
+    font-size: 15px;
+    padding: 3px;
+    color: red;
+    display: none;
+}
+
+#nicSpan{
+    font-size: 15px;
+    padding: 3px;
+    color: red;
+    display: none;
+}
+
+#emailSpan{
+    font-size: 15px;
+    padding: 3px;
+    color: red;
+    display: none;
+}
+
+#contactNoSpan{
+    font-size: 15px;
+    padding: 3px;
+    color: red;
+    display: none;
+}
+
+#petNameSpan{
+    font-size: 15px;
+    padding: 3px;
+    color: red;
+    display: none;
+}
+
+#petIdSpan{
+    font-size: 15px;
+    padding: 3px;
+    color: red;
+    display: none;
+}
+
+#petTypeSpan{
+    font-size: 15px;
+    padding: 3px;
+    color: red;
+    display: none;
+}
+/* input:invalid[focused="true"]{
+    border: 1px solid red
+}
+
+input:invalid[focused="true"] ~ span {
+    display: block;
+} */
+
+#id:invalid[focused="true"]{
+    border: 1px solid red
+}
+
+#id:invalid[focused="true"] ~ span {
+    display: block;
+}
+
+#name:invalid[focused="true"]{
+    border: 1px solid red
+}
+#name:invalid[focused="true"] ~ span {
+    display: block;
+}
+
+#nic:invalid[focused="true"]{
+    border: 1px solid red
+}
+#nic:invalid[focused="true"] ~ span {
+    display: block;
+}
+
+#email:invalid[focused="true"]{
+    border: 1px solid red
+}
+#email:invalid[focused="true"] ~ span {
+    display: block;
+}
+
+#contactNo:invalid[focused="true"]{
+    border: 1px solid red
+}
+#contactNo:invalid[focused="true"] ~ span {
+    display: block;
+}
+
+#petName:invalid[focused="true"]{
+    border: 1px solid red
+}
+#petName:invalid[focused="true"] ~ span {
+    display: block;
+}
+
+#petType:invalid[focused="true"]{
+    border: 1px solid red
+}
+#petType:invalid[focused="true"] ~ span {
+    display: block;
+}
+

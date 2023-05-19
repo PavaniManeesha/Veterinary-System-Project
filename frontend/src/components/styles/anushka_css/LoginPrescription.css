@@ -1,0 +1,46 @@
+.username1{
+    margin-left: 300px;
+}
+.username3{
+    width: 500px;
+    margin-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+}
+.password1{
+    margin-left: 300px;
+}
+
+.password3{
+    width: 500px;
+    margin-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    
+}
+
+.login-header{
+    text-align: center;
+    padding-top: 80px;
+}
+
+.login-btn{
+    margin-left: 600px;
+    background-color: #ffffff;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;   
+}
+
+.logo01{
+    width: 250px;
+    height: 250px;
+}
+
+
+.login-body{
+    background-color: #70baff46;
+    padding-bottom: 125px;
+}

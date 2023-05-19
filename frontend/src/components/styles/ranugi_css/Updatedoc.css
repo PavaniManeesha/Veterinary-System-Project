@@ -1,0 +1,19 @@
+.doc{
+    width: 600px;
+    display: inline-block;
+    position: relative;
+    left: 60px;
+    color: rgb(23, 109, 109);
+    background-color: rgb(219, 232, 236);
+}
+
+.update-doctor-container{
+    padding: 40px;
+}
+
+.title_upda{
+    color: rgb(23, 115, 143);
+    text-align: center;
+    margin-bottom: 26px;
+    
+}

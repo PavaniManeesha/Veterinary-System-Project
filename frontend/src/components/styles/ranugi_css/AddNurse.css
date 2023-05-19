@@ -1,0 +1,26 @@
+/* input[type=text],select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(30, 135, 143);
+    border-radius: 4px;
+} */
+
+.nurse{
+    width: 600px;
+    display: inline-block;
+    position: relative;
+    left: 60px;
+    color: rgb(8, 85, 85);
+    background-color: rgb(197, 221, 230);
+    
+}
+.add-nurse-form{
+    padding: 40px;
+}
+
+.title_addnur{
+    text-align: center;
+    margin-bottom: 26px;
+}

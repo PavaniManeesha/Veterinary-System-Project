@@ -1,0 +1,177 @@
+/* .container-fluid{
+  width:400px;
+  margin-left:66%;
+  margin-top:10px;
+}
+
+.d-flex{
+  width:400px;
+
+}
+
+body{
+  background: rgb(255, 255, 255);
+
+  background-size: cover;
+  height:500px;
+}
+
+.f1{
+ 
+  margin-top: 100px;
+  width: 300px;
+  height: 400px;
+  margin-left: 40%;
+  background-color: rgba(0, 0, 0, 0.53);
+  border-radius: 10px;
+
+}
+
+.h1{
+  text-align:center;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.form-label{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(0, 0, 0);
+  font-weight: 400;
+  margin-left:20px;
+  font-weight: bold;
+}
+
+#b1{
+  margin-left:110px;
+}
+.b11{
+  margin-left:1094px;
+  margin-top: 3000px;
+
+}
+
+.table{
+
+  color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgba(0, 0, 0, 0.473);
+}
+
+#s1{
+
+  background-color: blanchedalmond;
+}
+
+.p2{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+
+}
+.container1{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+}
+
+.h11{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+}
+
+.f11{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  margin-top: 250px;
+}
+
+.Addmedh1{
+  
+  margin-top: 50px;
+  
+
+}
+
+.btn btn-primary{
+  margin-right: 200px;
+}
+
+.form-control{
+  width: 1050px;
+ 
+}
+form-control1{
+  width: 200px;
+}
+
+.btn btn-secondary dropdown-toggle{
+  margin-top: 10px;
+  margin-bottom: 100px;
+}
+
+
+
+form{
+  background: rgb(111, 186, 255);
+  width: 900px;
+  height: 550px;
+  margin: 50px auto;
+  max-width: 97%;
+  border-radius: 4px;
+  padding: 55px 30px;
+  margin-right: 200px;
+  margin-top: 100px;
+}
+
+form .title h2{
+  letter-spacing: 6px;
+  border-bottom: 1px solid white;
+  display: inline-block;
+  padding-bottom: 8px;
+  margin-bottom: 32px;
+  color: wheat;
+}
+form .half{
+  display: flex;
+  justify-content: space-between;
+}
+
+form .half .item{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24px;
+  width: 48%;
+}
+
+form label{
+  display: block;
+  font-size: 15px;
+  font-weight: 400;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 3.5px;
+  margin-bottom: 16px;
+  color: rgb(0, 0, 0);
+}
+
+form .half .item input{
+  border-radius: 4px;
+  border: 1px solid white;
+  outline: 0;
+  padding: 16px;
+  width: 100%;
+  height: 44px;
+  background: transparent;
+  font-size: 17px;
+  color: white;
+}
+
+form .full{
+  margin-bottom: 24px;
+} */
+

@@ -1,0 +1,78 @@
+.clearfix {
+    margin: 0;
+    overflow: auto;
+  }
+.nav_main_container {
+    width: 15%;
+    height: 100vh;
+    background-color: rgb(111, 186, 255);
+    color: white;
+  }
+  /* Hide scrollbar for Chrome, Safari and Opera */
+.nav_main_container::-webkit-scrollbar {
+      display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+.nav_main_container {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+.nav_header {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+.nav_heading_text {
+    font-size: 20px;
+  }
+.nav_body {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+.nav_link_section {
+    width: 100%;
+    display: flex;
+    gap: 8px;
+    color: rgb(205, 205, 205);
+    padding-left: 15px;
+  }
+.nav_section_text {
+    font-size: 12px;
+    margin-top: 0px;
+  }
+
+.nav_link_wrapper {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    gap: 10px;
+    color: white;
+    cursor: pointer
+  }
+.nav_link_wrapper:hover {
+    background-color: rgb(17, 164, 184);
+    color: black;
+  }
+.nav_link {
+    font-size: 15px;
+    font-weight: 400;
+  }
+.link_styles{
+    text-decoration: none;
+  }
+.link_styles:hover{
+    text-decoration: none;
+  }
+.active div {
+    background-color: rgb(17, 164, 184);
+    color: rgb(255, 255, 255);
+  }
+  
+@media only screen and (max-width: 900px) {
+    .nav_main_container{
+      width: 25%;
+    }
+  }

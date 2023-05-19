@@ -1,0 +1,75 @@
+.payment-search-container{
+    display: flex;
+    justify-content: end;
+
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    padding: 20px;
+    background-color: white;
+}
+#search-payment-id{
+    height: 28px;
+    border-radius: 6px;
+}
+#search-appointment-id{
+    height: 28px;
+    border-radius: 6px;
+    margin-left: 20px;
+}
+.updateComponent{
+    background-color: #DCDCDC;
+
+    margin: 5% 20% 5% 20%;
+    padding: 40px;
+
+    padding-left: 150px;
+
+    border-radius: 10px;
+    box-shadow: 4px 8px 20px rgba(40, 40, 40, 0.2);
+}
+.content_4{
+    position: relative;
+    top: -38px;
+    left: 240px;
+}
+.updateBtn{
+    width: 12.2rem;
+    height: 2.4rem;
+    background-color: #6FA8FF;
+}
+.generateBtn{
+    width: 12.2rem;
+    height: 2.4rem;
+    background-color: #6FA8FF;
+}
+.updateBtn:hover{
+    background-color: white;
+    cursor: pointer;
+}
+.generateBtn:hover{
+    background-color: white;
+    cursor: pointer;
+}
+#PID,#payDate,#ApNum,#ApDate{
+    background-color: rgb(210, 210, 210);
+}
+.print-out{
+   margin-left: 30%;
+}
+.print-out-header{
+    position: relative;
+    right: 50px;
+}
+@media only screen and (max-width: 1024px) {
+    .updateComponent{
+        padding-left: 80px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .updateComponent{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}

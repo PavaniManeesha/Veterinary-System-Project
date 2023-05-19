@@ -1,0 +1,155 @@
+#reservationForm{
+  background: rgb(238, 238, 238);
+  width: 1000px;
+  height: 550px;
+  margin: 50px auto;
+  max-width: 97%;
+  border-radius: 4px;
+  padding: 55px 30px;
+  margin-right: 200px;
+  margin-top: 150px;
+  align-content: center;
+}
+
+/* form{
+    background: rgb(238, 238, 238);
+    width: 1000px;
+    height: 550px;
+    margin: 50px auto;
+    max-width: 97%;
+    border-radius: 4px;
+    padding: 55px 30px;
+    margin-right: 200px;
+    margin-top: 150px;
+    align-content: center;
+  } */
+  
+  form .title h2{
+    letter-spacing: 6px;
+    border-bottom: 1px solid rgb(255, 252, 252);
+    display: inline-block;
+    padding-bottom: 8px;
+    margin-bottom: 32px;
+    color: rgb(239, 214, 214);
+  }
+  
+  form .half{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  form .half .item{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 24px;
+    width: 48%;
+  }
+  
+  #reservationLabel{
+    display: block;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3.5px;
+    margin-bottom: 16px;
+    color: rgb(0, 0, 0);
+  }
+
+  #reservationInput{
+    border-radius: 4px;
+    border: 1px solid rgb(0, 0, 0);
+    outline: 0;
+    padding: 16px;
+    width: 100%;
+    height: 44px;
+    background: transparent;
+    font-size: 17px;
+    color: rgb(123, 121, 121);
+  }
+
+  #btn9{
+    margin-left: 850px;
+  }  
+
+  /*form label{
+    display: block;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3.5px;
+    margin-bottom: 16px;
+    color: rgb(0, 0, 0);
+  }
+  
+  
+
+  form .half .item input{
+    border-radius: 4px;
+    border: 1px solid rgb(0, 0, 0);
+    outline: 0;
+    padding: 16px;
+    width: 100%;
+    height: 44px;
+    background: transparent;
+    font-size: 17px;
+    color: rgb(123, 121, 121);
+  }
+  
+  form .full{
+    margin-bottom: 24px;
+  }
+  
+  form .full textarea{
+    background: transparent;
+    border-radius: 4px;
+    border: 1px solid rgb(0, 0, 0);
+    outline: 0;
+    padding: 12px 16px;
+    width: 100%;
+    height: 200px;
+    font-size: 17px;
+    color:rgb(0, 0, 0);
+  }
+  
+  form .action{
+    margin-bottom: 32px;
+  }
+  
+  form .action input{
+    background: transparent;
+    border-radius: 4px;
+    border: 1px solid rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    height: 44px;
+    letter-spacing: 3px;
+    outline: 0;
+    padding: 0 20px 0 22px;
+    margin-right: 10px;
+  }
+  
+  form .action input[type="submit"]{
+    background: rgb(0, 0, 0);
+    color: rgb(3, 3, 3);
+  }
+  
+  form .icons a{
+    border: 1px solid rgb(2, 46, 101);
+    border-radius: 50%;
+    line-height: 36px;
+    text-align: center;
+    font-weight: 600;
+    width: 38px;
+    margin-right: 10px;
+  }
+  
+  form .half .item input:focus, form .full textarea:focus, form .action input[type="reset"]:hover, form .icons a:hover{
+    background: rgba(0, 0, 0, 0.075);
+  }
+
+  .medform{
+    margin-left: 400px;
+  }
+  
+} */

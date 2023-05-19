@@ -1,0 +1,41 @@
+.PaymentNav{
+    color: #2E2E2E;
+    background-color: #DCDCDC;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: -40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 1rem;
+    gap: 2rem;
+
+    border-radius: 10px;
+    box-shadow: 4px 8px 20px rgba(40, 40, 40, 0.2);
+}
+.titel{
+    font-size: 200%;
+}
+nav ul{
+    
+    list-style: none;
+    display: flex;
+}
+nav li{
+    background-color: #6FA8FF;
+}
+nav a{
+    color: #2E2E2E;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+nav li.active{
+    background-color: white;
+}
+nav li:hover{
+    background-color: white;
+}

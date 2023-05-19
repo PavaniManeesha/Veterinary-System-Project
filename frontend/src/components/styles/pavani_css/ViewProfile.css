@@ -1,0 +1,13 @@
+@media screen and (min-width:1200px) and (max-width: 2500px) {
+    .main-flex-container{
+        display: flex;
+        justify-content: center;
+    }
+    #flex-container-id-1{
+        position:absolute;
+        left: 20px;
+    }
+    #view-profile-form{
+        margin: 20px;
+    }   
+}

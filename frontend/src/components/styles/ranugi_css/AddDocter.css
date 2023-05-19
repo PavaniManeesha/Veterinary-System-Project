@@ -1,0 +1,43 @@
+/* input[type=text],select{
+    width: 50%;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid rgb(11, 92, 124);
+    border-radius: 4px;
+} */
+/* .add-doctor-container{
+    
+    padding-top: 5px;
+    padding-left: 350px;
+    margin-left: 200px;
+}
+.title{
+    margin-bottom: 10px;
+} */
+
+.doctor{
+    width: 600px;
+    display: inline-block;
+    position: relative;
+    left: 60px;
+    color: rgb(8, 85, 85);
+    background-color: rgb(198, 227, 236);
+    border-color: rgb(5, 46, 58);
+}
+
+.add-doctor-container{
+    padding: 40px;
+   
+}
+
+.title_add{
+    color: rgb(23, 115, 143);
+    text-align: center;
+    margin-bottom: 26px;
+    
+}
+
+
+
+
+

@@ -1,0 +1,33 @@
+.nur{
+    width: 600px;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    color: rgb(23, 109, 109);
+    margin-left: 40px;
+    background-color:rgb(223, 239, 245);
+}
+
+
+
+.title_update{
+    color: rgb(23, 115, 143);
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.fun{
+    color: rgb(8, 25, 121);
+    position: relative; left:60px;
+}
+
+#btn9{
+    color: rgb(239, 247, 246);
+    left: 465px;
+    background-color: rgb(19, 64, 85);
+    position: relative;
+}
+
+
+
+

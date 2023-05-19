@@ -1,0 +1,42 @@
+
+
+.labs{    
+    text-align: center;
+    height: 100vh;
+    font-size: 100%;
+    table-layout: auto;
+} 
+
+.tbll{
+  text-align: center;
+}
+
+#btn3{
+  align-content: center;
+  color: rgb(0, 0, 0);
+  background-color: #70baff;
+
+}
+
+
+.edl{
+  text-align: center;
+
+}
+.h1{
+  text-align: center;
+}
+.needs-validation{
+  align-content: center;
+ background-color: #70baff;
+ margin-top: 15%;
+}
+
+
+#labhead{
+  text-align: center;
+}
+
+#labbody{
+  text-align: center;
+}

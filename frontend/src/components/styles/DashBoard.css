@@ -1,0 +1,39 @@
+.dashboard-header{
+    display: flex;
+    justify-content: center;   
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    font-family:'Times New Roman', Times, serif;
+    color:#000000;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 20px; 
+          
+}
+.main-dashboard{
+    background-color: rgb(255, 255, 255);
+    margin: 60px;
+    padding: 40px;
+    border-radius: 4px;
+ 
+    
+}
+.dashboard-btn{
+    width: 230px;
+    height: 200px;
+    margin: 40px;
+    font-size: 24px;
+    background-color: rgb(111, 186, 255);
+    border-radius: 20px;
+    margin-left: 55px;
+    border-color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    
+}
+.dashboard-btn:hover{
+    background-color: rgba(0, 145, 255, 0.744);
+    border-radius: 20px;
+    border-color: #ff0000;
+    cursor: pointer;
+    
+}

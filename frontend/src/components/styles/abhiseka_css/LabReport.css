@@ -1,0 +1,42 @@
+.Lreport{
+    /* text-align: center; */
+    margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+
+}
+
+.box{
+    
+   
+    
+}
+
+#reportbody{
+    align-content: center;
+}
+
+.reporthead{
+    text-align: center;
+}
+
+.logo01{
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+
+.dwnbtn{
+    width: 80%;
+    background-color: #70baff;
+    border-color: #70baff;
+    margin-left: 130px;
+    margin-top: 200px;
+    border: none;
+    padding: 12px 30px;
+    cursor: pointer;
+}

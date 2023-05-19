@@ -1,0 +1,13 @@
+.dash{
+   
+    background-repeat: no-repeat;
+    font-style: italic;
+
+
+    height: 110vh;
+    background-size: 100% 100%;
+  }
+ 
+#dash{
+  font-size: 400%;
+}
